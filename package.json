@@ -1,0 +1,19 @@
+{
+  "name": "todo-list-server",
+  "version": "1.0.0",
+  "description": "HTTP server for todo-list app",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo",
+    "expressjs"
+  ],
+  "author": "Suhail Dhada",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.6.5"
+  }
+}
