@@ -2,7 +2,7 @@
 
 Server implementation for a to-do list project.
 
-Client implemenation available here: https://github.com/Whooopps/todo-list-client
+Client implemenation available here: https://github.com/suhaildhada/todo-list-client-js
 
 ## Development
 
